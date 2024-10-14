@@ -1,8 +1,8 @@
 {
   "questions": [
     {
-      "question": ["hello","Hi","Name"],
-      "answer": "Hello..NeuraQuest here to solve your queries"
+      "question": "hello",
+      "answer": "Hello..NeuraQuest here to solve your queries!"
     },
     {
       "question": "Hi",
@@ -10,7 +10,7 @@
     },
     {
       "question": " Hi! What can you do?",
-      "answer": "Hello! I can provide you with information about the AIDS(Artificial Intelligence and Data Science) department at K S Rangasamy College of Technology.Feel free to ask any questions!"
+      "answer": "Hello! I can provide you with information about the AIDS (Artificial Intelligence and Data Science) department at K S Rangasamy College of Technology. Feel free to ask any questions!"
     },
     {
       "question": "What is the AI&DS department about?",
@@ -225,6 +225,13 @@
       "answer": "The department prepares students with practical training, industry-relevant education, and opportunities for internships and research projects\u200b"
     },
     {
+      "question": "how many classrooms,AI&DS classrooms,department classrooms",
+      "answer": "There are 4 classrooms in the AI & DS department, one for each year\u20141st, 2nd, 3rd, and 4th year students."
+    },
+    {
+      "question": " AI&DS clubs or associations ",
+      "answer": "Yes, there are several exclusive clubs and associations for AI & DS students. These include the Artificix Association, the Coders Club, and the newly organized Developer Club, all of which provide great platforms for skill development and collaboration."
+    }, {
       "question": "How are you?",
       "answer": "I'm good. How about you?"
     },
@@ -419,176 +426,6 @@
     {
       "question": "what is your name?",
       "answer": "NeuraQuest here to solve your queries!"
-    },
-    {
-      "question": "name?",
-      "answer": "NeuraQuest here to solve your queries!"
-    },{
-      "question": "What is AI&DS",
-      "answer": "AI & DS (Artificial Intelligence and Data Science) combines cutting-edge technologies to extract insights from data, enabling intelligent decision-making, automation, and innovation across various industries."
-    },
-    {
-      "question": [
-        "Who are the faculty members in the AI&DS department?",
-        "AI&DS department faculty roles and focus?",
-        "What are the specializations of the professors in the AI&DS department?",
-        "Can you provide the names and expertise of the AI&DS department staff?",
-        "Faculty names and areas of focus?",
-        "Can you list the faculty members in AI and Data Science?",
-        "Faculty expertise in AI&DS department? ",
-        "Who are the faculty in the AI&DS department and what areas do they specialize in?",
-        "List of professors and their specializations?",
-        "Faculties?",
-        "What faculty staff are in the AI&DS department?",
-        "Can you list the faculty members of the AI&DS department and their specializations?",
-        "Could you share the faculty profiles and their expertise in the AI&DS department?",
-        "Expertise of the AI&DS department staff?",
-        "Faculty expertise in AI&DS department?"
-      ],
-      "answer": [
-        "Dr. E. Mohanraj: Head of the Department (HoD) - Specialization in AI and Data Science.",
-        "Dr. S. Sarumathi: Professor - Specialization in Data Mining, Data Science, Networking.",
-        "Mrs. S. Gayathri: Assistant Professor - Specialization in Data Structures.",
-        "Mr. S. Raja: Assistant Professor - Specialization in C and Excel.",
-        "Mrs. I. Kalaimani: Assistant Professor - Specialization in Programming, Data Science.",
-        "Mrs. P. Indhumathi: Assistant Professor - Specialization in Networking, Python, IoT.",
-        "Mrs. S. Sripriya: Assistant Professor - Specialization in JAVA, Software Testing, Web Development."
-      ]
-    },
-    {
-      "question": [
-        "Who is Mohanraj?",
-        "Mohanraj",
-        "Say about Hod Mohanraj",
-        "Qualificiation of Mohanraj?",
-        "how to mail Hod",
-        "How to contact Hod?"
-      ],
-      "answer": [
-        "Dr. E. Mohanraj :",
-        "Head of the Department (HoD) - Specialization in AI and Data Science.",
-        "Specialization: AI, Data Science, Machine Learning, Cloud Computing, and more.",
-        "Mail-ID: mohanraj@ksrct.ac.in, hodaids@ksrct.ac.in",
-        "Experience: Over 16 years in teaching and research."
-      ]
-    },
-    {
-      "question": [
-        "Who is Dr. S. Sarumathi?",
-        "Say about Dr. S. Sarumathi",
-        "Qualification of Dr. S. Sarumathi?",
-        "How to mail Dr. S. Sarumathi?",
-        "How to contact Dr. S. Sarumathi?",
-        "Years of experience of Sarumathi?",
-        "Sarumathi?"
-      ],
-      "answer": [
-        "Position: Professor",
-        "Specialization: Data Mining, Data Science, Networking",
-        "Mail-ID: sarumathi@ksrct.ac.in",
-        "Experience: 25+ years in teaching"
-      ]
-    },
-    {
-      "question": [
-        "Who is Mr. N. Giridharan?",
-        "Say about Mr. N. Giridharan",
-        "Qualification of Mr. N. Giridharan?",
-        "How to mail Mr. N. Giridharan?",
-        "How to contact Mr. N. Giridharan?"
-      ],
-      "answer": [
-        "Position: Assistant Professor",
-        "Specialization: Blockchain, Automation, IoT",
-        "Mail-ID: giridharan@ksrct.ac.in",
-        "Experience: 8+ years in teaching"
-      ]
-    },
-    {
-      "question": [
-        "Who is Mrs. S. Gayathri?",
-        "Say about Mrs. S. Gayathri",
-        "Qualification of Mrs. S. Gayathri?",
-        "How to mail Mrs. S. Gayathri?",
-        "How to contact Mrs. S. Gayathri?"
-      ],
-      "answer": [
-        "Position: Assistant Professor",
-        "Specialization: Data Structures",
-        "Mail-ID: gayathris@ksrct.ac.in",
-        "Experience: 4+ years in teaching"
-      ]
-    },
-    {
-      "question": [
-        "Who is Mr. S. Raja?",
-        "Say about Mr. S. Raja",
-        "Qualification of Mr. S. Raja?",
-        "How to mail Mr. S. Raja?",
-        "How to contact Mr. S. Raja?"
-      ],
-      "answer": [
-        "Position: Assistant Professor",
-        "Specialization: C and Excel",
-        "Mail-ID: rajas@ksrct.ac.in",
-        "Experience: 2+ years in teaching"
-      ]
-    },
-    {
-      "question": [
-        "Who is Mrs. I. Kalaimani?",
-        "Say about Mrs. I. Kalaimani",
-        "Qualification of Mrs. I. Kalaimani?",
-        "How to mail Mrs. I. Kalaimani?",
-        "How to contact Mrs. I. Kalaimani?"
-      ],
-      "answer": [
-        "Position: Assistant Professor",
-        "Specialization: Programming, Data Science",
-        "Mail-ID: kalaimani@ksrct.ac.in",
-        "Experience: 16+ years in teaching"
-      ]
-    },
-    {
-      "question": [
-        "Who is Mrs. P. Indhumathi?",
-        "Say about Mrs. P. Indhumathi",
-        "Qualification of Mrs. P. Indhumathi?",
-        "How to mail Mrs. P. Indhumathi?",
-        "How to contact Mrs. P. Indhumathi?"
-      ],
-      "answer": [
-        "Position: Assistant Professor",
-        "Specialization: Networking, Python, IoT",
-        "Mail-ID: indhumathip@ksrct.ac.in",
-        "Experience: 1.11 years in teaching"
-      ]
-    },
-    {
-      "question": [
-        "Who is Mrs. S. Sripriya?",
-        "Say about Mrs. S. Sripriya",
-        "Qualification of Mrs. S. Sripriya?",
-        "How to mail Mrs. S. Sripriya?",
-        "How to contact Mrs. S. Sripriya?"
-      ],
-      "answer": [
-        "Position: Assistant Professor",
-        "Specialization: JAVA, Software Testing, Web Development, Data Mining",
-        "Mail-ID: sripriya@ksrct.ac.in",
-        "Experience: 1.9 years in teaching"
-      ]
-    },{
-      "question": "How does the department support student readiness for industry?",
-      "answer": "The department prepares students with practical training, industry-relevant education, and opportunities for internships and research projects\u200b"
-    },
-    {
-      "question": "how many classrooms,AI&DS classrooms,department classrooms",
-      "answer": "There are 4 classrooms in the AI & DS department, one for each year\u20141st, 2nd, 3rd, and 4th year students."
-    },
-    {
-      "question": " AI&DS clubs or associations ",
-      "answer": "Yes, there are several exclusive clubs and associations for AI & DS students. These include the Artificix Association, the Coders Club, and the newly organized Developer Club, all of which provide great platforms for skill development and collaboration."
     },
     {
       "question": "are there any association or clubs are there for students",
